@@ -6,4 +6,4 @@ lolvoiceswitcher2.iml
 out/
 target/
 test.log
-voiceswitcherbootstrapper/
+src/test/

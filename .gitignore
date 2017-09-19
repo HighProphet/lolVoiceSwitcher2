@@ -1,0 +1,9 @@
+
+.idea/
+config.json
+data/
+lolvoiceswitcher2.iml
+out/
+target/
+test.log
+voiceswitcherbootstrapper/

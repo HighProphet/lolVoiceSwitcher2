@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: httpmime-4.5.3.jar slf4j-api-1.7.25.jar commons-codec-1.9.
+ jar httpclient-4.5.3.jar commons-logging-1.2.jar slf4j-log4j12-1.7.25
+ .jar autopersisted-json-1.0-SNAPSHOT.jar fastjson-1.2.38.jar log4j-1.
+ 2.17.jar httpcore-4.4.6.jar shared-utils-1.0-SNAPSHOT.jar
+Main-Class: pw.highprophet.switcher.gui.Switcher
+
